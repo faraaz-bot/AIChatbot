@@ -7,6 +7,7 @@ DialoGPT (Microsoft): A pre-trained natural language processing model that gener
 Backend:
 
 Flask (Python): A lightweight web framework used to create the server-side logic. Flask handles incoming requests from the frontend and processes them using the DialoGPT model to generate responses.
+
 Frontend:
 
 HTML, CSS, JavaScript: These are used to build the visual chat interface, ensuring it is both interactive and user-friendly.
